@@ -1,6 +1,6 @@
 
 # Codeforces-Stats
-User can input any username and can see particular user's rating as well as other information.
+User can input any existing username and can see the rating and other information.
 
 Jquery
 
