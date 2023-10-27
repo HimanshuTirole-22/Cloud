@@ -11,7 +11,7 @@ Codeforces API
 ---
 
 ### Visit the page and know your codeforces informations: 
-####  https://codeforces-api-02.netlify.app/
+####  https://cloud-assignment.netlify.app/
 ---
 
 
